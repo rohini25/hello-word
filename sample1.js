@@ -1,7 +1,7 @@
 function first(){
 <<<<<<< HEAD
-  console.log("hello.................");
-  console.log("hello.................");
+  console.log("hello...neha");
+  console.log("hello jayant");
 =======
   console.log("hello rohini...");
   console.log("changes dane...");
